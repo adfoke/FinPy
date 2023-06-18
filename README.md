@@ -1,0 +1,2 @@
+# FinPy
+ some finance func
